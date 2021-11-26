@@ -1,7 +1,7 @@
-export const Page1 = () => {
+export const Page2 = () => {
   return (
     <div>
-      <p>Page2です</p>
+      <h1>Page2です</h1>
     </div>
   );
 }
